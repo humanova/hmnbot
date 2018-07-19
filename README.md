@@ -1,4 +1,4 @@
-# hmnbot.github.io
+# hmnbot website
 Hmn-Bot Website
 
-Link : https://humanova.github.io/hmnbot.github.io/
+Link : https://humanova.github.io/hmnbot
